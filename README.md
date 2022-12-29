@@ -6,11 +6,12 @@ After 10 years in healthcare - both on the front lines and in management - I'm r
 While I continue to work full time & job search, I'm spending some time coding to try to bridge the gap between what I learned in bootcamp, 
 and what employers are looking for in junior developers. :thought_balloon: <br>
 
-:mortar_board: Project completed during my bootcamp are marked private in an effort to preserve academic integrity. Let me know if you want to see them! <br>
+:mortar_board: Projects completed during my bootcamp are stored in a private private in an effort to preserve academic integrity. Let me know if you want to see them! <br>
 
-:point_right: Let's connect on [LinkedIn](https://www.linkedin.com/in/hirokomatsuyama3/)! I would really appreciate if you could write me a quick message that you found me here :)<br>
+:point_right: Let's connect on [LinkedIn](https://www.linkedin.com/in/hirokomatsuyama3/)! I would really appreciate if you could write me a quick message that you found me here. (◍•ᴗ•◍)❤<br>
+
+![](https://komarev.com/ghpvc/?username=hmatsuyama3&color=brightgreen) Σ(°ロ°) woah
 <!---
-hmatsuyama3/hmatsuyama3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Official documentation for the github counter:
+https://github.com/antonkomarev/github-profile-views-counter
 --->
-![](https://komarev.com/ghpvc/?username=hmatsuyama3) Σ(°ロ°) woah
