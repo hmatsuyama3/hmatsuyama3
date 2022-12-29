@@ -6,7 +6,7 @@ After 10 years in healthcare - both on the front lines and in management - I'm r
 While I continue to work full time & job search, I'm spending some time coding to try to bridge the gap between what I learned in bootcamp, 
 and what employers are looking for in junior developers. :thought_balloon: <br>
 
-:mortar_board: Projects completed during my bootcamp are stored in a private private in an effort to preserve academic integrity. Let me know if you want to see them! <br>
+:mortar_board: Projects completed during my bootcamp are stored in a private repository in an effort to preserve academic integrity. Let me know if you want to see them! <br>
 
 :point_right: Let's connect on [LinkedIn](https://www.linkedin.com/in/hirokomatsuyama3/)! I would really appreciate if you could write me a quick message that you found me here. (◍•ᴗ•◍)❤<br>
 
