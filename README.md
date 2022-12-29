@@ -10,8 +10,9 @@ and what employers are looking for in junior developers. :thought_balloon: <br>
 
 :point_right: Let's connect on [LinkedIn](https://www.linkedin.com/in/hirokomatsuyama3/)! I would really appreciate if you could write me a quick message that you found me here. (◍•ᴗ•◍)❤<br>
 
-![](https://komarev.com/ghpvc/?username=hmatsuyama3&color=brightgreen) Σ(°ロ°) woah
+Thanks for visiting!
 <!---
+![](https://komarev.com/ghpvc/?username=hmatsuyama3&color=brightgreen) Σ(°ロ°) woah
 Official documentation for the github counter:
 https://github.com/antonkomarev/github-profile-views-counter
 --->
